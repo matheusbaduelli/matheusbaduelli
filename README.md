@@ -69,4 +69,4 @@ Foco em:
 
 ### *"The future is built by those who dare to go beyond."*
 
-Obrigado por visitar meu repositório — e até a próxima missão. 🚀
+Obrigado por visitar meu repositório.
