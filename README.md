@@ -16,7 +16,7 @@ Minha jornada começou com a curiosidade de entender como as coisas funcionam. E
 Atualmente:
 
 * 🔧 Analista de Processos
-* 💻 Estudante de **Análise e Desenvolvimento de Sistemas** (desde 2022)
+* 💻 Análista de Sistemas** (desde 2025)
 * 🚀 Entusiasta de programação, sistemas inteligentes e desenvolvimento de software
 * 📚 Sempre em busca de aprender mais e evoluir
 
@@ -24,7 +24,7 @@ Atualmente:
 
 ## 🌍 Minha missão
 
-Assim como na engenharia espacial, acredito que cada solução precisa ser construída com precisão, simplicidade e propósito.
+Acredito que cada solução precisa ser construída com precisão, simplicidade e propósito.
 Meu objetivo é criar sistemas que **resolvam problemas reais**, gerem impacto e impulsionem minha carreira como desenvolvedor.
 
 ---
@@ -33,20 +33,14 @@ Meu objetivo é criar sistemas que **resolvam problemas reais**, gerem impacto e
 
 * **Python**
 * **JavaScript**
-* **React Native**
+* **Java**
 * **HTML & CSS**
 * **SQL**
-* **Power BI**
-* **TensorFlow / PyTorch** (em aprendizado)
-* **MediaPipe & OpenCV** (visão computacional)
 
 ---
 
 ## 🌙 Projetos em desenvolvimento
 
-* 📱 Aplicativo Android de **controle de estoque** com *React Native + SQLite*
-* 🎮 Jogo de tiro com gestos usando **MediaPipe + OpenCV**
-* 🤖 IA para classificação de imagens (boas vs ruins)
 * 🧩 Interfaces com **CustomTkinter** integradas a automações com Excel
 
 ---
@@ -54,7 +48,6 @@ Meu objetivo é criar sistemas que **resolvam problemas reais**, gerem impacto e
 ## ✨ Filosofia de trabalho
 
 > “A tecnologia só faz sentido quando ultrapassa fronteiras e cria novas possibilidades.”
-> — inspirado pelo mindset da SpaceX
 
 Foco em:
 
@@ -66,15 +59,6 @@ Foco em:
 
 ---
 
-## 🚀 Explorando novas órbitas
-
-Atualmente me preparando para:
-
-* Concurso de **Analista de Sistemas — TJSP**
-* Aprofundar estudos em engenharia de software
-* Expandir meu portfólio de projetos profissionais
-
----
 
 ## 🌐 Conecte-se comigo
 
